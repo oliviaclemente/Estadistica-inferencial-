@@ -1,0 +1,101 @@
+SEXO,ALTURA,PESO,PAD_INI,PAD_FIN,PAS_INI,PAS_FIN,FARMACO
+Mujer,173,69,78,104,176,175,Ca Antagonista + Diurético
+Mujer,178,68,95,114,162,160,Ca Antagonista + Diurético
+Hombre,179,86,93,102,141,150,Placebo
+Hombre,182,89,86,91,162,161,Ca Antagonista + Diurético
+Mujer,180,74,89,94,165,162,Ca Antagonista + Diurético
+Hombre,179,88,74,99,141,148,Placebo
+Mujer,169,62,94,95,168,152,IECA
+Hombre,177,87,94,79,133,143,Placebo
+Mujer,172,66,74,64,149,135,IECA
+Hombre,172,78,89,87,147,155,Placebo
+Hombre,170,80,90,82,161,148,IECA
+Mujer,164,61,92,102,147,153,Placebo
+Mujer,162,59,86,94,161,162,Ca Antagonista + Diurético
+Hombre,172,77,93,77,152,151,Ca Antagonista + Diurético
+Mujer,175,69,81,77,147,145,Ca Antagonista + Diurético
+Mujer,167,63,72,96,145,150,Placebo
+Hombre,174,85,85,107,157,165,Placebo
+Mujer,168,64,84,111,165,175,Placebo
+Mujer,176,70,94,105,192,179,IECA
+Mujer,168,70,96,55,126,114,IECA
+Mujer,165,62,77,102,162,160,Ca Antagonista + Diurético
+Hombre,189,102,77,111,160,168,Placebo
+Hombre,170,73,83,77,164,151,IECA
+Mujer,180,75,90,62,125,125,Ca Antagonista + Diurético
+Mujer,159,61,76,84,145,144,Ca Antagonista + Diurético
+Hombre,188,97,88,92,145,131,IECA
+Hombre,185,99,95,68,129,136,Placebo
+Hombre,167,71,94,53,138,125,IECA
+Hombre,178,86,80,76,146,145,Ca Antagonista + Diurético
+Mujer,166,63,93,95,176,161,IECA
+Mujer,177,69,102,102,149,157,Placebo
+Hombre,173,77,82,81,146,132,IECA
+Mujer,181,74,108,108,166,174,Placebo
+Hombre,194,109,88,73,159,143,IECA
+Mujer,177,73,90,104,159,164,Placebo
+Mujer,177,72,85,111,162,169,Placebo
+Hombre,167,70,98,92,152,159,Placebo
+Hombre,182,91,93,68,137,123,IECA
+Hombre,187,103,85,98,164,163,Ca Antagonista + Diurético
+Hombre,173,80,89,107,174,159,IECA
+Hombre,178,97,96,79,133,140,Placebo
+Mujer,170,68,99,113,188,173,IECA
+Hombre,182,93,97,75,149,135,IECA
+Hombre,172,82,94,130,192,192,Ca Antagonista + Diurético
+Hombre,179,88,86,49,130,116,IECA
+Mujer,179,73,83,73,150,150,Ca Antagonista + Diurético
+Hombre,180,90,94,107,164,164,Ca Antagonista + Diurético
+Mujer,169,65,92,72,142,127,IECA
+Hombre,176,80,87,88,143,149,Placebo
+Hombre,169,77,86,42,137,124,IECA
+Hombre,168,69,84,58,108,116,Placebo
+Hombre,170,75,79,88,162,163,Ca Antagonista + Diurético
+Hombre,180,96,82,80,143,148,Placebo
+Mujer,169,68,100,47,128,115,IECA
+Hombre,174,84,81,64,148,134,IECA
+Hombre,183,92,70,83,154,154,Ca Antagonista + Diurético
+Mujer,172,70,94,103,158,165,Placebo
+Hombre,170,77,78,105,147,157,Placebo
+Mujer,171,66,90,87,157,140,IECA
+Mujer,163,60,86,102,166,165,Ca Antagonista + Diurético
+Hombre,168,83,84,81,167,154,IECA
+Mujer,170,68,84,81,169,153,IECA
+Mujer,169,62,105,69,156,143,IECA
+Hombre,171,77,99,99,151,159,Placebo
+Hombre,172,79,99,87,154,154,Ca Antagonista + Diurético
+Hombre,171,64,81,108,149,157,Placebo
+Hombre,178,88,85,80,154,139,IECA
+Hombre,183,92,90,54,135,119,IECA
+Mujer,175,71,89,90,164,164,Ca Antagonista + Diurético
+Mujer,182,71,94,106,175,183,Placebo
+Mujer,170,68,79,84,157,145,IECA
+Mujer,171,68,92,66,128,126,Ca Antagonista + Diurético
+Hombre,177,83,91,61,130,129,Ca Antagonista + Diurético
+Hombre,169,74,84,74,173,158,IECA
+Hombre,179,84,97,102,162,161,Ca Antagonista + Diurético
+Mujer,175,70,93,105,156,153,Ca Antagonista + Diurético
+Mujer,166,62,82,72,135,134,Ca Antagonista + Diurético
+Hombre,179,96,75,100,156,157,Ca Antagonista + Diurético
+Mujer,168,66,101,99,172,156,IECA
+Mujer,167,62,89,91,151,157,Placebo
+Hombre,179,90,94,70,145,130,IECA
+Mujer,165,64,87,84,143,142,Ca Antagonista + Diurético
+Hombre,183,97,80,68,147,134,IECA
+Hombre,190,105,94,91,157,155,Ca Antagonista + Diurético
+Hombre,168,73,105,85,143,143,Ca Antagonista + Diurético
+Hombre,178,91,89,95,160,158,Ca Antagonista + Diurético
+Mujer,174,69,91,83,146,154,Placebo
+Hombre,167,71,94,135,186,193,Placebo
+Hombre,185,93,97,99,153,158,Placebo
+Mujer,163,62,94,71,135,136,Ca Antagonista + Diurético
+Hombre,175,89,82,107,161,167,Placebo
+Mujer,174,72,80,69,141,126,IECA
+Mujer,162,60,92,77,163,151,IECA
+Mujer,167,65,89,88,134,142,Placebo
+Mujer,178,71,77,101,165,172,Placebo
+Hombre,186,101,94,73,143,142,Ca Antagonista + Diurético
+Mujer,171,65,105,98,152,162,Placebo
+Mujer,172,70,75,69,131,130,Ca Antagonista + Diurético
+Hombre,178,94,80,74,145,150,Placebo
+Hombre,190,105,80,76,154,141,IECA

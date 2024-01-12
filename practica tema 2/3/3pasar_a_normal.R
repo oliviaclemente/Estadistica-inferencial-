@@ -1,3 +1,9 @@
+#Dada una población con una distribución cualquiera.
+#a.1. Aleatoriamente obtenemos varias m.a.s. de esa población. Calculamos sus medias. 
+#a.2. Construimos la gráfica de la distribución de frecuencias de las medias.
+#a.3. Esta distribución de medias sigue una ‘Normal’
+#Aplicar estos pasos en el caso de una distribución binomial(10, 0.25), uniforme(0,1), Poisson(2) para muestras de tamaño 5,30 y 50 y número de repeticiones igual a 106
+
 #binomial(10, 0.25)
 
 nmuestra <- 5

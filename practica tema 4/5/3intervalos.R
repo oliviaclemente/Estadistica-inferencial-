@@ -1,3 +1,11 @@
+#Se midieron en 10 días tomados al azar los niveles de cloro del agua que sale de una planta de tratamiento, obteniéndose los valores siguientes: 2,2 – 1,9 – 1,7 – 1,6 – 1,7 – 1,8 – 1,7 – 1,9 – 2,0 – 2,0. Se pide:
+#a) Dar una estimación puntual de la media y de la varianza de la variable aleatoria que representa el nivel de cloro.
+#b) Intervalo de confianza al 95% para la media y la varianza.
+#c) Ídem al 99%.
+#d) Crear una función que calcule el IC para la varianza poblacional. Aplicarlo a un nivel de confianza del 95%
+#NOTA: Se supone que los datos provienen de poblaciones normales.
+
+
 x <- c(2.2, 1.9, 1.7,1.6,1.7,1.8,1.7, 1.9, 2.0, 2.0)
 
 #Estimacion puntual
